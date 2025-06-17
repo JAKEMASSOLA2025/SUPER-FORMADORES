@@ -1,4 +1,18 @@
 body{
     background-color: aqua;
     color: black;
+    font-family: "Roboto", sans-serif;
 }
+
+
+h1{
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+
+header {
+    font-size: 60px;
+}
+
