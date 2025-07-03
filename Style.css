@@ -2,6 +2,7 @@ body{
     background-color: aqua;
     color: black;
     font-family: "Roboto", sans-serif;
+    margin: 0px;
 }
 
 
@@ -13,6 +14,8 @@ p {
 }
 
 header {
+    border-bottom: solid 2px rgb(red, green, blue);
+    padding: 20px;
     font-size: 60px;
 }
 
